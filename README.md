@@ -1,4 +1,4 @@
-OBJECTIVE
+OBJECTIVE - 
 As a data analyst for a bank, analyze the loan portfolio performance and provide insights on:
 •	Loan Portfolio Health 
 •	Application Trends 
@@ -6,8 +6,8 @@ As a data analyst for a bank, analyze the loan portfolio performance and provide
 •	Risk Metrics 
 •	Portfolio Growth 
 
-DOMAIN KNOWLEDGE
-How Banks Operate in Lending
+DOMAIN KNOWLEDGE -
+How Banks Operate in Lending 
 1.	Primary Function: Financial Intermediation
 o	Banks serve as intermediaries, taking money from depositors (savings accounts, fixed deposits) and lending it to borrowers (personal loans, home loans, etc.).
 o	Banks earn money through the spread: the difference between the interest they pay depositors and the interest they charge borrowers.
@@ -33,7 +33,7 @@ o	Salaries, branch maintenance, technology upgrades, etc., form part of the bank
 o	Banks sometimes borrow money from central banks or other financial institutions to maintain liquidity.
 
 
-How Lending Works
+How Lending Works 
 1.	Loan Application:
 o	Borrowers apply for loans, stating their purpose, income, credit score, and other details.
 2.	Credit Assessment:
@@ -47,7 +47,7 @@ o	A portion of the received money is used to cover bank costs, while the rest co
 
 
 
-DATA KNOWLEDGE(Dataset)
+DATA KNOWLEDGE(Dataset) -
 id: A unique identifier for the loan or borrower.
 address_state: The state where the borrower resides.
 application_type: Indicates whether the loan application is individual or joint.
