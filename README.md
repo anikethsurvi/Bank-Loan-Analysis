@@ -48,27 +48,29 @@ o	A portion of the received money is used to cover bank costs, while the rest co
 
 
 DATA KNOWLEDGE(Dataset) -
-id: A unique identifier for the loan or borrower.
-address_state: The state where the borrower resides.
-application_type: Indicates whether the loan application is individual or joint.
-emp_length: The borrower’s employment length (e.g., 1 year, 5+ years).
-emp_title: The borrower’s job title or occupation.
-grade: A risk grade assigned to the loan, typically based on creditworthiness (e.g., A, B, C).
-home_ownership: Indicates the borrower’s housing status (e.g., Own, Rent, Mortgage).
-issue_date: The date the loan was issued.
-last_credit_pull_date: The most recent date the borrower’s credit profile was reviewed.
-last_payment_date: The date the borrower made their most recent loan payment.
-loan_status: Current status of the loan (e.g., Fully Paid, Charged Off, Current).
-next_payment_date: The scheduled date for the borrower's next loan payment.
-member_id: A unique identifier for the borrower.
-purpose: The reason for the loan (e.g., debt consolidation, home improvement).
-sub_grade: A more granular classification of loan risk (e.g., A1, B2, C3).
-term: The loan duration, typically in months (e.g., 36 months, 60 months).
-verification_status: Indicates whether the borrower’s income and identity have been verified.
-annual_income: The borrower’s reported annual income.
-dti: Debt-to-Income ratio, measuring the borrower’s monthly debt obligations as a percentage of income.
-installment: The fixed monthly payment the borrower needs to make.
-int_rate: The interest rate on the loan.
-loan_amount: The total amount borrowed.
-total_acc: The total number of credit accounts the borrower has.
-total_payment: The total amount paid by the borrower, including principal and interest.
+1. id: A unique identifier for the loan or borrower.
+2. address_state: The state where the borrower resides.
+3. application_type: Indicates whether the loan application is individual or joint.
+4. emp_length: The borrower’s employment length (e.g., 1 year, 5+ years).
+5. emp_title: The borrower’s job title or occupation.
+6. grade: A risk grade assigned to the loan, typically based on creditworthiness (e.g., A, B, C).
+7. home_ownership: Indicates the borrower’s housing status (e.g., Own, Rent, Mortgage).
+8. issue_date: The date the loan was issued.
+9. last_credit_pull_date: The most recent date the borrower’s credit profile was reviewed.
+10. last_payment_date: The date the borrower made their most recent loan payment.
+11. loan_status: Current status of the loan (e.g., Fully Paid, Charged Off, Current).
+12. next_payment_date: The scheduled date for the borrower's next loan payment.
+13. member_id: A unique identifier for the borrower.
+14. purpose: The reason for the loan (e.g., debt consolidation, home improvement).
+15. sub_grade: A more granular classification of loan risk (e.g., A1, B2, C3).
+16. term: The loan duration, typically in months (e.g., 36 months, 60 months).
+17. verification_status: Indicates whether the borrower’s income and identity have been verified.
+18. annual_income: The borrower’s reported annual income.
+19. dti: Debt-to-Income ratio, measuring the borrower’s monthly debt obligations as a percentage of income.
+20. installment: The fixed monthly payment the borrower needs to make.
+21. int_rate: The interest rate on the loan.
+22. loan_amount: The total amount borrowed.
+23. total_acc: The total number of credit accounts the borrower has.
+24. total_payment: The total amount paid by the borrower, including principal and interest.
+
+
