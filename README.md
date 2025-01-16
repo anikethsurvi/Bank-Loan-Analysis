@@ -73,4 +73,4 @@ DATA KNOWLEDGE(Dataset) -
 23. total_acc: The total number of credit accounts the borrower has.
 24. total_payment: The total amount paid by the borrower, including principal and interest.
 
-
+Please do visit the interactive dashboard Thanks 😊
